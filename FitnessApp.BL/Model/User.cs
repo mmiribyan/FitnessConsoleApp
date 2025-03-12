@@ -6,6 +6,7 @@ namespace FitnessApp.BL.Model
     /// <summary>
     /// User class.
     /// </summary>
+    [Serializable]
     public class User
     {
         /// <summary>
